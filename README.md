@@ -1,7 +1,9 @@
 ## Moon Ahn 👨‍🚀
-[![](https://img.shields.io/badge/Gmail-munantoyou%40gmail.com-white)](https://mail.google.com/mail/u/0/?tab=km#inbox)
-[![](https://img.shields.io/badge/Blog-Moon_ahn-orange)](https://moon-ahn.tistory.com/)
+  <a href="mailto:munantoyou@gmail.com" target="_blank"><img src="https://img.shields.io/badge/munantoyou@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="https://moon-ahn.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
 [![](https://img.shields.io/badge/KakaoTalk-kicest-yellow)]()
+
+
 
 <p align="center"> 
   Visitor count<br>
