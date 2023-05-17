@@ -18,7 +18,7 @@ const Moon_Ahn = {
     technologies: {
        GUI: ["PyQt5", "MFC"],
        mobileApp: ["Android"],
-       DeepLearning: ["Yolo", "CNN", "RNN", "GAN"],
+       DeepLearning: ["YOLO", "CNN", "RNN", "GAN"],
        databases: ["MySql", "FireBase"],
     },
     IDE: ["Pycharm", "Android Studio", "Visual Studio"],
