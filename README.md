@@ -1,6 +1,6 @@
 ## Moon Ahn 👨‍🚀
   <a href="mailto:munantoyou@gmail.com" target="_blank"><img src="https://img.shields.io/badge/munantoyou@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-  <a href="https://moon-ahn.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
+  <a href="https://moon-ahn.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-5AB552?style=flat-square&logo=tistory&logoColor=white"/></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/kicest-F48220?style=flat-square&logo=kakaotalk&logoColor=white"/></a>
 
 
