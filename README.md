@@ -14,7 +14,7 @@
 const Moon_Ahn = {
     pronouns: "He" | "Him",
     code: ["Python", "C", "C++", "Kotlin", "Java"],
-    askMeAbout: ["Computer Vision", "GUI", "Simulator", "App dev"],
+    askMeAbout: ["Computer Vision", "Embedded", "GUI", "Simulator", "App dev"],
     technologies: {
        GUI: ["PyQt5", "MFC"],
        mobileApp: ["Android"],
