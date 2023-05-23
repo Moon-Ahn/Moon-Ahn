@@ -19,12 +19,12 @@ const Moon_Ahn = {
     askMeAbout: ["Computer Vision", "Embedded", "GUI", "Simulator", "App dev"],
     technologies: {
        GUI: ["PyQt5", "MFC"],
-       mobileApp: ["Android"],
+       MobileApp: ["Android"],
        DeepLearning: ["YOLO", "CNN", "RNN", "GAN"],
-       databases: ["MySql", "FireBase"],
+       Databases: ["MySql", "FireBase"],
     },
     IDE: ["Pycharm", "Android Studio", "Visual Studio"],
-    funFact: "There are two ways to write error-free programs; only the third one works"
+    Funfact: "The world’s largest Department store is located in South Korea"
 };
 ```
 [![Moon_Ahn's github stats](https://github-readme-stats.vercel.app/api?username=Moon-Ahn&show_icons=true&theme=merko&hide=["contribs","issues"])](https://github.com/Moon-Ahn)
