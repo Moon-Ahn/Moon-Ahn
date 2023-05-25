@@ -23,8 +23,8 @@ const Moon_Ahn = {
        DeepLearning: ["YOLO", "CNN", "RNN", "GAN"],
        Databases: ["MySql", "FireBase"],
        Designs: ["Photoshop", "Illustrater", "Figma"],
+       IDE: ["Pycharm", "Android Studio", "Visual Studio"],
     },
-    IDE: ["Pycharm", "Android Studio", "Visual Studio"],
     Funfact: "The world’s largest Department store is located in South Korea"
 };
 ```
